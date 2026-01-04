@@ -21,11 +21,11 @@ The report is organized into four specialized pages, designed to guide users fro
 * **Visuals:** Aggregated charts and filters to explore data by nationality, league, and club.
 <img width="1189" height="660" alt="image" src="https://github.com/user-attachments/assets/68d40b9a-8a54-4400-b687-6c84be734f3d" />
 
-### 3. Player Profiles & Attribute Analysis
-* **Purpose:** Focused analysis of individual player "DNA."
-* **Insights:** Detailed breakdown of core football attributes (Pace, Shooting, Passing, Dribbling, Defending, and Physical).
-* **Usage:** Enables scouting-style comparisons using interactive slicers, **Radar Charts**, and attribute-specific visuals.
-<img width="1188" height="661" alt="image" src="https://github.com/user-attachments/assets/5d5eba0d-6537-49b3-b1e2-7fa74949d453" />
+### 3. Player Profiles & Details
+* **Purpose:** A dedicated view for individual player information.
+* **Insights:** Displays the player's full name, current club, and primary stats as recorded in the EAFC 24 database.
+* **Usage:** Provides a clean, organized "profile card" view that allows users to see specific player data and their associated team info.
+<img width="1309" height="729" alt="image" src="https://github.com/user-attachments/assets/caced6aa-9381-4abb-a915-34a312ff738c" />
 
 ### 4. Team Comparison Analysis
 * **Purpose:** Strategic club-level and team-based comparison.
