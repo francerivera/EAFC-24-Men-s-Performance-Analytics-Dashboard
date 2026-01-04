@@ -31,7 +31,7 @@ The report is organized into four specialized pages, designed to guide users fro
 * **Purpose:** Strategic club-level and team-based comparison.
 * **Insights:** Evaluates teams based on aggregated player attributes and ratings.
 * **Usage:** Ideal for identifying relative strengths and weaknesses across different clubs.
-<img width="1192" height="661" alt="image" src="https://github.com/user-attachments/assets/589fbfc5-03af-4461-adbb-b5425cfc200d" />
+<img width="1269" height="706" alt="image" src="https://github.com/user-attachments/assets/351f0340-6b97-47d1-b892-0972a80d7fd2" />
 
 ---
 
